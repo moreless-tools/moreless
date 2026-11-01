@@ -17,6 +17,20 @@ Edit a PDF, prepare a batch of images or work through a JSON file in MORELESS. T
 
 **[Open MORELESS](https://moreless.tools/en/)** · [Try the sample files](examples/) · [Product guides](https://moreless.tools/en/docs/) · [Feedback](https://moreless.tools/en/feedback/)
 
+## Watch MORELESS in use
+
+### Format JSON and select documents for review
+
+Import the sample data, switch to Tree view and query the document names with JSONPath.
+
+https://github.com/user-attachments/assets/28ca1acf-120a-4302-aaa9-c8f3d22485e6
+
+### Fill a PDF approval form
+
+Open the three-page brief, fill its approval form and prepare the PDF for download. The form values remain editable when Flatten is off.
+
+https://github.com/user-attachments/assets/08b305f5-411d-4a76-9a58-892f3c703179
+
 ## Try it with a file
 
 | Start with | Try this in MORELESS | Guide |
