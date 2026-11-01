@@ -1,0 +1,20 @@
+<project name="Sample launch" currency="EUR">
+  <document id="DOC-001">
+    <name>Project brief</name>
+    <status>review</status>
+    <pages>3</pages>
+    <owner>Design</owner>
+  </document>
+  <document id="DOC-002">
+    <name>Image checklist</name>
+    <status>ready</status>
+    <pages>1</pages>
+    <owner>Design</owner>
+  </document>
+  <document id="DOC-003">
+    <name>Release notes</name>
+    <status>review</status>
+    <pages>2</pages>
+    <owner>Development</owner>
+  </document>
+</project>
