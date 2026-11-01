@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/08b305f5-411d-4a76-9a58-892f3c703179
 | [Three-page project brief](examples/project-brief.pdf) | Fill the approval form, add an annotation and export the PDF. Reopen it to check the result. | [PDF walkthrough](guides/pdf-workflow.md) |
 | [Project data as JSON](examples/project-data.json) | Format the document, explore its structure and query the documents waiting for review. | [JSON walkthrough](guides/json-workflow.md) |
 | [Project data as CSV](examples/project-data.csv) | Convert the three records to JSON. | [CSV to JSON](https://moreless.tools/en/tools/csv-to-json/) |
-| [Two versions of a project note](examples/) | Compare the text and find the changed review date and added link check. | [Text comparison](https://moreless.tools/en/tools/text-diff/) |
+| [Two versions of a project note](examples/) | Compare the text and find the changed review date and added link check. | [Text comparison](https://moreless.tools/en/tools/text-diff-checker/) |
 
 All sample data is fictional. The [examples guide](examples/README.md) lists the files and expected results.
 
